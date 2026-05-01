@@ -17,6 +17,7 @@ The goal is to produce data-driven insights to support Ethiopia’s position at 
 
 ## Project Structure
 climate-challenge-week0/
+
 │
 ├── data/                     
 ├── notebooks/
@@ -86,13 +87,7 @@ Normalized using MinMax scaling and summed into a final score.
 
 ---
 
-## Dashboard (Optional)
-Streamlit app includes:
-- Country selector
-- Year range filter
-- Interactive visualizations
 
----
 
 ## Deliverables
 - Clean datasets (not tracked in Git)
